@@ -1,1 +1,1 @@
-# processes-and-threads
+This repo contains two programs showing the difference between threads and processes (Part 1 of problem statement)
